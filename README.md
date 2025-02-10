@@ -4,6 +4,8 @@ A curated list of free online courses that do **not** provide certificates or ba
 
 For courses that **do** offer certificates or badges, check out our [Free Certifications repository](https://github.com/cloudcommunity/Free-Certifications) and the accompanying [Online Free Certifications](https://free-certifications.com/) site.  
 
+If you find this list helpful, please consider **starring** ⭐ the repository to support the project and help others discover these resources!
+
 ## Courses
 
 The courses are sorted in alphabetical order.
@@ -17,3 +19,7 @@ The courses are sorted in alphabetical order.
 - [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/) – by Microsoft
 - [Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) – by Microsoft
 - [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) – by Microsoft
+
+## Other Lists
+
+- https://freecourses.github.io/
