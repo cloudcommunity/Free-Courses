@@ -16,6 +16,7 @@ The courses are sorted in alphabetical order.
 - [Extended Reality (XR) for Beginners](https://microsoft.github.io/xr-development-for-beginners/) – by Microsoft
 - [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) – by Microsoft
 - [Internet of Things (IoT) for Beginners](https://microsoft.github.io/IoT-For-Beginners/) – by Microsoft
+- [Introduction to GitHub](https://github.com/skills/introduction-to-github) - by GitHub
 - [Machine Learning for Beginners](https://microsoft.github.io/ML-For-Beginners/) – by Microsoft
 - [Mastering GitHub Copilot for Paired Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) – by Microsoft
 - [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/) – by Microsoft
